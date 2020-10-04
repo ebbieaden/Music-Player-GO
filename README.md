@@ -6,7 +6,7 @@
   
 <p align="center">
   <!-- Latest Release -->
-    <a href="https://github.com/enricocid/Music-Player-GO/releases">
+    <a href="https://github.com/ebbieaden/Music-Player-GO/releases">
       <img alt="GitHub release"
       src="https://img.shields.io/static/v1?label=Tag&message=v4.2.7&color=2196f3">
     </a>
@@ -46,13 +46,10 @@
 
 # Description
 
-This repo contains the source code of the **Music Player GO** Android app: a simple yet fully-featured local music player aiming at simplicity and performance.
+This repo contains the source code of the **Music Player GO** Android app: a simple yet fully-featured local music player made by Aden aiming at simplicity and performance.
 
 # Download
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-    alt="Get it on Google Play"
-    height="80">](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/com.iven.musicplayergo/)
@@ -81,7 +78,7 @@ please consider a [donation](https://weblate.org/it/donate/new/) :)
 
 ## Authors / Copyright
 
-2020 (c) Enrico D'Ortenzio.
+2020 (c) Ebbie Aden.
 
 ## Third-party component licenses
 
